@@ -44,9 +44,14 @@ s.close()
 ```
 ## OUTPUT
 server side:
+
 <img width="300" height="42" alt="image" src="https://github.com/user-attachments/assets/0881d199-89bb-4337-a263-9ab22e1a7af9" />
+
+
 client side:
+
 <img width="572" height="213" alt="image" src="https://github.com/user-attachments/assets/1aeb0add-fe69-454c-b8c0-f1a077300cd7" />
+
 
 
 
